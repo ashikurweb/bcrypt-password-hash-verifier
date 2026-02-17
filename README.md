@@ -1,5 +1,8 @@
 # bcrypt-password-hash-verifier
 
+<img width="1920" height="1117" alt="image" src="https://github.com/user-attachments/assets/23c2ba4d-f495-42b7-a004-3eb4027cc44f" />
+
+
 A Laravel application for verifying bcrypt password hashes.
 
 ## Requirements
